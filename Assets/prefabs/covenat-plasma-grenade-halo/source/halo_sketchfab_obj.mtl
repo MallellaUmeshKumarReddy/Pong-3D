@@ -1,0 +1,7 @@
+# OBJ Material Export by Luxion KeyShot
+
+newmtl Paint Gloss Black #1
+Kd 1 1 1
+
+newmtl Emissive Cool #1
+Kd 0 1 0.0166667
